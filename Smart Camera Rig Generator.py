@@ -16,9 +16,9 @@ from mathutils import Vector, Euler
 
 bl_info = {
     "name": "Smart Camera Rig Generator",
-    "author": "VFX Tools",
+    "author": "Patrick Trahan",
     "version": (1, 0),
-    "blender": (3, 0, 0),
+    "blender": (4, 5, 1),
     "location": "View3D > Sidebar > Camera Rigs",
     "description": "Creates professional camera rigs with automated controls",
     "category": "Camera",

@@ -8,10 +8,10 @@ Creates professional camera rigs with empties, constraints, and custom propertie
 4. Find the panel in 3D View sidebar (N key) under "Camera Rigs"
 
 <h3>UI</h3>
-
+dgfddfgdfg
 
 <h3>Basic Rig</h3> 
-
+gdffgdfg
 
 <h3>Crane Rig</h3> 
 

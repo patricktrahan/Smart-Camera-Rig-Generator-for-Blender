@@ -1,6 +1,22 @@
 <h1># Smart-Camera-Rig-Generator-for-Blender</h1>
-Creates professional camera rigs with empties, constraints, and custom properties Perfect for animation, cinematics, and VFX work.
+The Smart Camera Rig Generator is a powerful Blender add-on that instantly creates professional, production-ready camera rigs with automated controls, constraints, and custom properties. Perfect for animators, cinematographers, and VFX artists looking to speed up their camera work.
 
+✨ Features
+
+This add-on provides four pre-built camera systems and two utility functions:
+
+    Basic Rig: A standard Aim-and-Dolly rig with separate controls for movement and focus. Great for most shots.
+
+    Crane Rig: Simulates a jib or crane shot with controls for base rotation (pan) and boom elevation (tilt). Ideal for sweeping or overhead movements.
+
+    Orbit Rig: Creates a camera that perfectly orbits a central target, allowing for easy turntable shots or circular movements.
+
+    Handheld Rig: Instantly adds procedural, controllable camera shake/noise to simulate realistic handheld footage.
+
+    Utility: Add DOF Controls: Quickly adds an automatically linked Focus Target Empty and custom properties to any selected camera for easy Depth of Field control.
+
+    Utility: Add Camera Shake: Applies procedural noise modifiers to the selected camera's location/rotation for quick shake effects.
+    
 <h2>To use:</h2> 
 1. Open Blender's Text Editor
 2. Paste this script

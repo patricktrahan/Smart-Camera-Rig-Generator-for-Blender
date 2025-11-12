@@ -1,7 +1,7 @@
 # Smart-Camera-Rig-Generator-for-Blender
 Creates professional camera rigs with empties, constraints, and custom properties Perfect for animation, cinematics, and VFX work
 
-To use: 
+<h1>To use:</h1> 
 1. Open Blender's Text Editor
 2. Paste this script
 3. Click "Run Script" or press Alt+P
